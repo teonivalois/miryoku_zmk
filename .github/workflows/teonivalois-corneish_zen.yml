@@ -1,5 +1,5 @@
 name: '(teonivalois) Corne-ish Zen Custom'
-on: workflow_dispatch
+on: push
 jobs:
   build:
     uses: ./.github/workflows/main.yml
