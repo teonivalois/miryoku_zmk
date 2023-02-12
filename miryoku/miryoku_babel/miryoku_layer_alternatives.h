@@ -1,4 +1,4 @@
-r// Copyright 2022 Manna Harbour
+// Copyright 2022 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 // generated -*- buffer-read-only: t -*-
 // target: zmk
